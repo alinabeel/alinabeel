@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Habib
+# 👋 Hi, I'm Ali
 
 I'm a **Senior Full-Stack Developer** and **Founder of WisdomSol Technologies**, with over 15 years of experience in software development, solution architecture, and technical leadership.
 
