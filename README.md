@@ -52,8 +52,7 @@ I'm a **Senior Full-Stack Developer** and **Founder of WisdomSol Technologies**,
 ---
 
 ## 🤖 Fun Fact
-
-![Meme](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBmNzZ2NzJvOXdub2hoYnpibjRoMmMxcGVvejZjNmxtZ3hpZTJnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBmNzZ2NzJvOXdub2hoYnpibjRoMmMxcGVvejZjNmxtZ3hpZTJnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" />
 
 > *"Sometimes I write code, sometimes the code writes me."*
 
